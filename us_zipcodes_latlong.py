@@ -18,7 +18,6 @@ import pandas as pd
 
 data = gpd.read_file('tl_2018_us_zcta510/tl_2018_us_zcta510.shp')
 
-
 # type(data)
 
 # data.head()
